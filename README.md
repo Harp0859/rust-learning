@@ -7,4 +7,4 @@ This repository will track my daily progress.
 2. Mutability and Immutability
 3. Data Types
 4. Basic Math Operations - [basic.rs](basic.rs)
-5. if else loops and Conditions - [if else_loops_condiitions.rs](https://github.com/Harp0859/rust-learning/blob/main/basic_loops_conditions.rs)
+5. if else loops and Conditions - [[if else_loops_condiitions.rs]](https://github.com/Harp0859/rust-learning/blob/main/if%20else_loops_condiitions.rs)
