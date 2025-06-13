@@ -35,5 +35,25 @@ if is_raining == false
 else
 { println!("ok wow") }
 
-  
+
+
+
+let game_score = 85;
+
+if game_score == 100
+{
+    println!("Perfect score! You are a master!");
+}
+else if game_score >= 90
+ {
+    println!("Excellent! You crushed it!");
+} 
+else if game_score >= 70
+ {
+    println!("Good job! You passed!");
+} 
+else 
+ {
+    println!("Keep practicing! You'll get there!");
+} 
 }
